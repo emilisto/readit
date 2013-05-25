@@ -1,0 +1,23 @@
+{
+  "name": "readit",
+  "version": "0.0.1",
+  "description": "Expect a filename argument, reads its content and returns it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:emilisto/readit.git"
+  },
+  "keywords": [
+    "cli",
+    "arguments",
+    "file"
+  ],
+  "author": "Emil Stenqvist <emsten@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "optimist": "~0.5.0"
+  }
+}
